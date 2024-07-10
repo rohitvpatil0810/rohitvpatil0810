@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Software Engineering, Web-Development, MERN Stack, CPP**
 
-- 📫 How to reach me [https://rohitvpatil.vercel.app/#contact](https://rohitvpatil.vercel.app/#contact/)
+- 📫 How to reach me [https://rohitvpatil.vercel.app/#contact](https://rohitvpatil.vercel.app/#contact)
 
 - ⚡ Fun fact **I am passionate about technology, and I love to contribute to the world of technology.**
 
