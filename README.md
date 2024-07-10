@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Patil</h1>
-<h3 align="center">Software Engineer Intern at Quoppo, Ex-Summer Intern at UBS, Ex-Web Development Intern at Virtuebyte Pvt. Ltd.</h3>
+<h3 align="center">Ex-Software Engineer Intern at Quoppo, Ex-Summer Intern at UBS, Ex-Web Development Intern at Virtuebyte Pvt. Ltd.</h3>
 
 - 🔭 I’m currently working on [We Split API](https://github.com/rohitvpatil0810/we-split-api)
 
 - 🌱 I’m currently learning **Computer Engineering**
 
-- 👨‍💻 All of my projects are available at [https://rohit-patil-portfolio.web.app/](https://rohit-patil-portfolio.web.app/)
+- 👨‍💻 All of my projects are available at [https://rohitvpatil.vercel.app/](https://rohitvpatil.vercel.app/)
 
 - 💬 Ask me about **Software Engineering, Web-Development, MERN Stack, CPP**
 
