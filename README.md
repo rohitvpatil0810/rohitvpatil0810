@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Computer Engineering**
 
-- 👨‍💻 All of my projects are available at [https://rohitvpatil.vercel.app/](https://rohitvpatil.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rohitpatil.net/](https://rohitpatil.net/)
 
 - 💬 Ask me about **Software Engineering, Web-Development, MERN Stack, CPP**
 
-- 📫 How to reach me [https://rohitvpatil.vercel.app/#contact](https://rohitvpatil.vercel.app/#contact)
+- 📫 How to reach me [https://rohitpatil.net/#contact](https://rohitpatil.net/#contact)
 
 - ⚡ Fun fact **I am passionate about technology, and I love to contribute to the world of technology.**
 
