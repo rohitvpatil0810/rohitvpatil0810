@@ -14,13 +14,10 @@
 - ⚡ Fun fact: I like tackling problems where **consistency, performance, and system design trade-offs actually matter**
 
 <h3 align="left">Connect with me:</h3>
-<table>
-<tr>
-<td><a href="https://twitter.com/rohitvpatil0810" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitvpatil0810" height="30" /></a></td>
-<td><a href="https://linkedin.com/in/rohitvpatil0810" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitvpatil0810" height="30" /></a></td>
-<td><a href="https://www.leetcode.com/rohitvpatil0810" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitvpatil0810" height="30" /></a></td>
-</tr>
-</table>
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rohitvpatil0810)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitvpatil0810)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://www.leetcode.com/rohitvpatil0810)
 
 <h3 align="left">Languages and Tools:</h3>
 
